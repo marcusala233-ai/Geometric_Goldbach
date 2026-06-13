@@ -3,6 +3,7 @@
 [![Status](https://img.shields.io/badge/Status-Preprint-blue.svg)]()
 [![LaTeX](https://img.shields.io/badge/LaTeX-Source_Code-success.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/10.5281/zenodo.20678499-blue.svg)](https://doi.org/10.5281/zenodo.20678499)
 
 Este repositório contém o código-fonte LaTeX e o manuscrito do artigo **"Uma Abordagem Espectral-Geométrica para a Conjectura Forte de Goldbach: Uma Prova Condicional via Variedades de Arakelov"**. 
 
